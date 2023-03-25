@@ -1,0 +1,2 @@
+AUTH_TOKEN = "Check your auth token on grux-wow.com in the account settings page and put it here"
+GMR.RunEncryptedScript("xDiJjxmJycLjxEiH0U8QdNHMOJBmbUDlJgvP6KUZQPD4YyItOLVMhcaV3XJB8Ut6izAujNpHcL2wIwiavAv90AKHU6MVwFJKXIrGmRIaA4rZPKWlWbuzJbzKsxTI4ytVhbxatGxG8mEPnZxewRTL9wEradwuKve9cHHRZXcovbi58A8QF0ub4MhctF7l0GKzI7R9UEu1TvloBdj6Uicd")
